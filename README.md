@@ -39,7 +39,11 @@ CHECKLIST-MAIN/
 3. Update database credentials in: includes/db_connection.php
 
 
-IMAGES
+IMAGES![Screenshot 2025-07-09 181822](https://github.com/user-attachments/assets/7bf52681-cf4c-498c-8c37-f0e6230f8f3a)
+
 ![Screenshot 2025-07-09 181741](https://github.com/user-attachments/assets/aa7f2400-a7de-490e-90e2-6ef4582ee84f)
+
+![Screenshot 2025-07-09 181751](https://github.com/user-attachments/assets/77cecc9c-13d5-4019-8f4b-b5370f039de1)
+![Screenshot 2025-07-09 181810](https://github.com/user-attachments/assets/223ecf61-796c-4dc8-84fb-cc65fd6aceec)
 
 
