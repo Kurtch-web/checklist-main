@@ -37,3 +37,9 @@ CHECKLIST-MAIN/
 2. Set up your PostgreSQL database using CHECKLIST.sql.
 
 3. Update database credentials in: includes/db_connection.php
+
+
+IMAGES
+![Screenshot 2025-07-09 181741](https://github.com/user-attachments/assets/aa7f2400-a7de-490e-90e2-6ef4582ee84f)
+
+
